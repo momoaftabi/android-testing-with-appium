@@ -1,0 +1,17 @@
+{
+    "patientName": "Pre Patient",
+    "phone": "01905440338",
+    "age": "20",
+    "patientNameEdit": "Patient Edited",
+    "complaint":"pain",
+    "value":"value",
+    "duration":"3",
+    "details":"details",
+    "advice":"drink water",
+    "diagnosis":"fever",
+    "medicine":"ace",
+    "dose":"2",
+    "investigation":"Dengue Antibody",
+    "name":"Custom",
+    "email":"jotnotest01@gmail.com"
+}
